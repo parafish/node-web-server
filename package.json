@@ -1,1 +1,10 @@
-{}
+{
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: No Test\".",
+    "start": "node sever.js"
+  }
+}
