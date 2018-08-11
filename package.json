@@ -5,6 +5,6 @@
 
   "scripts": {
     "test": "echo \"Error: No Test\".",
-    "start": "node sever.js"
+    "start": "node server.js"
   }
 }
